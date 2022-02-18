@@ -1,1 +1,1 @@
-This repository functions as storage for big-sized data that are link to the target repositories. This keeps the target repositories lightweighted. 
+This repository functions as storage for big-sized data that is linked to the target repositories to keep the it lightweighted. 
